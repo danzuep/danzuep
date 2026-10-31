@@ -4,4 +4,5 @@
 - I volunteer as a Create Lead for FaithTech, building redemptive technology that prioritises people over the product.
 - I enjoy designing full-stack solutions from scratch, most commonly with PostgreSQL or MongoDB for storage, C# .NET for business logic, and WPF/MAUI or Razor/Blazor as the frontend, and more recently some Kotlin.
 
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=danzuep&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 ![Visits](https://komarev.com/ghpvc/?username=danzuep&label=Visits)
